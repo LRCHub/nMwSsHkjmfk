@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ATTITUDE",
+  "base_artist": "aespa",
+  "createdAt": "2026-03-09T14:42:23.234441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honky Tonk Attitude",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/01_Honky_Tonk_Attitude_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honky Tonk Attitude",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/02_Honky_Tonk_Attitude_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honky Tonk Attitude",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/03_Honky_Tonk_Attitude_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Attitude",
+      "artist": "Lisa Germano",
+      "has_synced": false,
+      "path": "select/04_Bad_Attitude_Lisa_Germano.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Afraid (ft. Attitude)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/05_Afraid_(ft._Attitude)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Take That Attitude To Your Grave",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/06_Don't_Take_That_Attitude_To_Your_Grave_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Leavin' (feat. Attitude)",
+      "artist": "Timbaland & Magoo",
+      "has_synced": true,
+      "path": "select/07_Leavin'_(feat._Attitude)_Timbaland_&_Magoo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Attitude",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/08_Attitude_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Attitude",
+      "artist": "Huey Lewis & The News",
+      "has_synced": false,
+      "path": "select/09_Attitude_Huey_Lewis_&_The_News.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Attitude",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/10_Bad_Attitude_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Attitude",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/11_New_Attitude_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Attitude",
+      "artist": "Bad Brains",
+      "has_synced": true,
+      "path": "select/12_Attitude_Bad_Brains.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Soul Attitude",
+      "artist": "Badly Drawn Boy",
+      "has_synced": false,
+      "path": "select/13_Soul_Attitude_Badly_Drawn_Boy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Attitude",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/14_Attitude_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Attitude Boy Will Overcome",
+      "artist": "Paul Gilbert",
+      "has_synced": true,
+      "path": "select/15_Attitude_Boy_Will_Overcome_Paul_Gilbert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ATTITUDE",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_ATTITUDE_aespa.txt"
+    }
+  ]
+}
